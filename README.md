@@ -8,7 +8,7 @@ Funding Application Predictive Model
 __
 
 ## Summary
-In this challenge, we looked to create a model that predicts whether applicants will be successful if funded. We have a CSV of more than 34,--- organizations that have received funding. Using machine learning and neural networks, I used features in the provided dataset to create binary classifier models that will predict whether an applicant will become a successful business
+In this challenge, we looked to create a model that predicts whether applicants will be successful if funded. We have a CSV of more than 34,000 organizations that have received funding. Using machine learning and neural networks, I used features in the provided dataset to create binary classifier models that will predict whether an applicant will become a successful business
 --
 
 ## Technologies
